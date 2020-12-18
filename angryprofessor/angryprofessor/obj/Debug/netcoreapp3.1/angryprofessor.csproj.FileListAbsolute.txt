@@ -1,0 +1,13 @@
+C:\Users\sanam\source\repos\angryprofessor\angryprofessor\bin\Debug\netcoreapp3.1\angryprofessor.exe
+C:\Users\sanam\source\repos\angryprofessor\angryprofessor\bin\Debug\netcoreapp3.1\angryprofessor.deps.json
+C:\Users\sanam\source\repos\angryprofessor\angryprofessor\bin\Debug\netcoreapp3.1\angryprofessor.runtimeconfig.json
+C:\Users\sanam\source\repos\angryprofessor\angryprofessor\bin\Debug\netcoreapp3.1\angryprofessor.runtimeconfig.dev.json
+C:\Users\sanam\source\repos\angryprofessor\angryprofessor\bin\Debug\netcoreapp3.1\angryprofessor.dll
+C:\Users\sanam\source\repos\angryprofessor\angryprofessor\bin\Debug\netcoreapp3.1\angryprofessor.pdb
+C:\Users\sanam\source\repos\angryprofessor\angryprofessor\obj\Debug\netcoreapp3.1\angryprofessor.csprojAssemblyReference.cache
+C:\Users\sanam\source\repos\angryprofessor\angryprofessor\obj\Debug\netcoreapp3.1\angryprofessor.AssemblyInfoInputs.cache
+C:\Users\sanam\source\repos\angryprofessor\angryprofessor\obj\Debug\netcoreapp3.1\angryprofessor.AssemblyInfo.cs
+C:\Users\sanam\source\repos\angryprofessor\angryprofessor\obj\Debug\netcoreapp3.1\angryprofessor.csproj.CoreCompileInputs.cache
+C:\Users\sanam\source\repos\angryprofessor\angryprofessor\obj\Debug\netcoreapp3.1\angryprofessor.dll
+C:\Users\sanam\source\repos\angryprofessor\angryprofessor\obj\Debug\netcoreapp3.1\angryprofessor.pdb
+C:\Users\sanam\source\repos\angryprofessor\angryprofessor\obj\Debug\netcoreapp3.1\angryprofessor.genruntimeconfig.cache
